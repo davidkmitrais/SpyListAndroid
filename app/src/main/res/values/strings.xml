@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">One Stop Click</string>
+    <string name="title_activity_spy_details">ItemDetailsActivity</string>
+    <string name="titls_activity_secret_details">Item Details</string>
+</resources>
